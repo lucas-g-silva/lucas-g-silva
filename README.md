@@ -7,7 +7,7 @@ Meu nome é Lucas Gabriel Moser da Silva, tenho 15 anos e atualmente sou Jovem A
 
 ## Conecte-se comigo
 <div> 
-  <a href="mailto:lucas.moserdasilva@gmail.com">
+  <a href="mailto:lucas.moserdasilva@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.instagram.com/japa_ms08" target="_blank">
