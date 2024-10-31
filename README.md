@@ -16,7 +16,10 @@ Meu nome é Lucas Gabriel Moser da Silva, tenho 15 anos e atualmente sou Jovem A
 </div>
 
 ## Principais Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,react,tailwind,java,vscode,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,react,tailwind,java,spring,mysql&theme=dark)](https://skillicons.dev)
+
+## Principais Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma&theme=dark)](https://skillicons.dev)
 
 ## 📊 Meus Status
 <table>
