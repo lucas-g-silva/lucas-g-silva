@@ -1,4 +1,4 @@
-## <code>console.log("Opa!");</code>
+## <code>console.log("Olá!");</code>
 
 Bem vindo ao Meu GitHub
 
