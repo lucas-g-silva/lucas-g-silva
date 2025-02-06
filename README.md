@@ -3,7 +3,7 @@
 Bem vindo ao Meu GitHub
 
 ## Sobre Mim!
-Meu nome é Lucas Gabriel Moser da Silva, tenho 15 anos e atualmente sou Jovem Aprendiz no curso de Programador de Sistemas da Informação no SENAI - Timbó.
+Meu nome é Lucas Gabriel Moser da Silva, tenho 15 anos e atualmente sou Jovem Aprendiz no curso de Eletricista Industrial no SENAI - Timbó.
 
 ## Conecte-se comigo
 <div> 
